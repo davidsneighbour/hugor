@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@davidsneighbour/release-config": "^2024.4.12",
-    "@davidsneighbour/tools": "^2024.4.12",
+    "@davidsneighbour/tools": "^2025.0.2",
     "@apidevtools/json-schema-ref-parser": "^11.7.3"
   },
   "dependencies": {
