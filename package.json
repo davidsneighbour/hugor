@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "@davidsneighbour/markdownlint-config": "^2025.0.2",
-    "@davidsneighbour/remark-config": "^2025.0.2"
+    "@davidsneighbour/remark-config": "^2025.1.1"
   }
 }
